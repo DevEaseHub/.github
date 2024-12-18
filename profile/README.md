@@ -37,8 +37,3 @@ We welcome contributions from the developer community:
 - Website: [Coming Soon]
 - GitHub: [DevEaseHub](https://github.com/DevEaseHub)
 - Contact: dev.easehub@gmail.com
-
----
-
-## 📜 License
-This project is licensed under the [MIT License](LICENSE).
