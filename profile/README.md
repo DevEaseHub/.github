@@ -33,11 +33,6 @@ We welcome contributions from the developer community:
 3. Commit your changes: `git commit -m 'Add feature-name'`.
 4. Push to the branch: `git push origin feature-name`.
 5. Open a Pull Request.
-
-For detailed guidelines, refer to the `CONTRIBUTING.md` file in each repository.
-
----
-
 ## 🌐 Connect With Us
 - Website: [Coming Soon]
 - GitHub: [DevEaseHub](https://github.com/DevEaseHub)
